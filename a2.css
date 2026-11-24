@@ -1,0 +1,38 @@
+
+body {
+    background-color: #eeeeee;
+    font-family: Arial, sans-serif;
+}
+
+.resume {
+    background-color: white;
+    width: 700px;
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h1 + p {
+    text-align: center;
+    color: gray;
+}
+
+h2 {
+    color: darkblue;
+    border-bottom: 2px solid lightblue;
+    padding-bottom: 5px;
+}
+
+p, li {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+hr {
+    border: 1px solid lightgray;
+}
